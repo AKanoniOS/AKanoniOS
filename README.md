@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Header](./github-header-image.png)
+
 - 🔭 I’m currently working on ... the Odin Project!
 - 🌱 I’m currently learning ... the Odin Project and CS50
 - 👯 I’m looking to collaborate on ...
